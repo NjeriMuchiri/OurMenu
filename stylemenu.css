@@ -27,6 +27,20 @@
     margin-left: auto;
     margin-right: auto;
 }
+.btn-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom:20px;
+}
+.filter-btn{
+    border:transparent;
+    border:2px solid #c19a6b;
+    padding:5px 10px;
+    border-radius:10px;
+    margin:5px;
+
+}
 .section-center{
     width:90vw;
     margin:0 auto;

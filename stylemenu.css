@@ -39,7 +39,12 @@
     padding:5px 10px;
     border-radius:10px;
     margin:5px;
-
+    color:#696969;
+    transition: all 0.3s ease;
+}
+.filter-btn:hover{
+    color:#c2b280;
+    font-weight:800;
 }
 .section-center{
     width:90vw;
